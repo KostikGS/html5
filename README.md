@@ -3,7 +3,7 @@
 
 Projetos pra valer
 
-<a href="https://https://kostikgs.github.io/projeto-android/" target='_blank'> Site sobre Android
+<a href="https://kostikgs.github.io/projeto-android/" target='_blank'> Site sobre Android
 
 
 Sites testes para comandos
