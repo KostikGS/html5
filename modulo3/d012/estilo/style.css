@@ -20,7 +20,7 @@
 
 html, body {
     background-color: darkgrey;
-    min-height: 100%;
+    min-height: 100vh;
     font-family: var(--fonte1);
 }
 
@@ -46,7 +46,7 @@ a{
     text-decoration: none;
     font-weight: bolder;
 }
-a:hover{
+a:hover, footer a:hover{
     text-decoration: underline;
 }
 
