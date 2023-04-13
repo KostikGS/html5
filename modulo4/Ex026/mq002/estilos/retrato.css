@@ -1,3 +1,7 @@
 @charset 'UTF-8';
 
 /*Orientação de retrato (em pé)*/
+
+body{
+    background-image: url(../imagens/imagem_retrato.png);
+}
