@@ -7,7 +7,7 @@
       </head>
       <body>
         <header>
-        <img id="img_redonda" src="imagens/foto_perfil_150.png" alt="foto_perfil">
+        <img id="img_redonda" src="imagens/foto_perfil_full" alt="foto_perfil">
           <h1>Gabriel Kostik</h1>
           <nav>
             <ul>
