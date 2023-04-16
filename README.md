@@ -46,7 +46,7 @@
             </div>
           </section>
         <center>
-        <li><img src="imagens/icone-facebook.png" alt="icone-facebook"> <a href="https://www.facebook.com/gabriel.kostik/" target="_blank" rel="external">Facebook</a>
+        <img src="imagens/icone-facebook.png" alt="icone-facebook"> <a href="https://www.facebook.com/gabriel.kostik/" target="_blank" rel="external">Facebook</a>
         <img src="imagens/icone-twitter.png" alt="icone-twitter"> <a href="https://twitter.com/GS_Kostik" target="_blank" rel="external">Twitter</a>
         <img src="imagens/icone-linkedin.png" alt="icone-linkedin"> <a href="https://www.linkedin.com/in/gabriel-kostik-3b539b163/" target="_blank" rel="external">Linkedin</a> 
         <img src="imagens/icone-github.png" alt="icone-github"> <a href="https://github.com/KostikGS" target="_blank" rel="external">Github</a></li> </center>
