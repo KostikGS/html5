@@ -25,7 +25,7 @@
           <section id="sobre">
             <h2>Sobre</h2>
             <p>Proativo, adaptativo, organizado, analítico, estrategista, prezo pela qualidade, mas estou aberto para novos desafios. Tenho conhecimento em programação C++,C#, Java, HTML5, CSS3, PHP. Experiência em ensino de Informática, tento facilidade para explicação e esclarecimento de dúvidas relacionado a área. Conhecimento em pacote Office, Photoshop e Illustrator, programação de jogos, design, modelagem e criação de aplicativos para celular.</p>
-            <a href="#contato" class="btn">Entre em contato</a>
+            </a>
           </section>
           <section id="projetos" class="projetos">
             <h2>Projetos</h2>
