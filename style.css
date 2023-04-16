@@ -20,6 +20,10 @@
     margin-top: 0;
     margin-bottom: -10px;
   }
+
+  ul{
+    color: black;
+  }
   
   /* Estilo do subtítulo */
   h2 {

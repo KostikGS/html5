@@ -17,6 +17,9 @@
     border-radius: 50%;
   }
   
+  ul{
+    color: black;
+  }
   /* Estilo do título */
   h1 {
     color: var(--cor-primaria);
