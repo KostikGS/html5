@@ -2,10 +2,15 @@
 
 /* Definindo as cores principais */
 :root {
-    --cor-primaria: #2a9d8f;
-    --cor-secundaria: #264653;
+    --cor-primaria: #c1c1c1;
+    --cor-secundaria: #db5f08;
     --cor-destaque: #e9c46a;
-    --cor-texto: #333;
+    --cor-texto: #d1d1d1;
+  }
+
+  body{
+    background-image: url(imagens/fundo-portfolio.jpg);
+    background-size: cover;
   }
   
   /* Estilo do título */
@@ -13,6 +18,7 @@
     color: var(--cor-primaria);
     font-size: 3em;
     margin-top: 0;
+    margin-bottom: -10px;
   }
   
   /* Estilo do subtítulo */
@@ -100,4 +106,7 @@
   
   .projeto a:hover {
     color: var(--cor-secundaria);
+  }
+  footer{
+    color: var(--cor-texto);
   }
