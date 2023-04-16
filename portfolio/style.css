@@ -2,15 +2,15 @@
 
 /* Definindo as cores principais */
 :root {
-    --cor-primaria: #a7a924;
-    --cor-secundaria: #264653;
+    --cor-primaria: #c1c1c1;
+    --cor-secundaria: #db5f08;
     --cor-destaque: #e9c46a;
     --cor-texto: #d1d1d1;
   }
 
   body{
     background-image: url(imagens/fundo-portfolio.jpg);
-    border-image-repeat: stretch;
+    background-size: cover;
   }
   
   /* Estilo do título */
@@ -106,4 +106,7 @@
   
   .projeto a:hover {
     color: var(--cor-secundaria);
+  }
+  footer{
+    color: var(--cor-texto);
   }
