@@ -7,6 +7,11 @@
     --cor-destaque: #e9c46a;
     --cor-texto: #333;
   }
+
+  body{
+    background-image: url(imagens/fundo-portfolio.jpg);
+    border-image-repeat: stretch;
+  }
   
   /* Estilo do título */
   h1 {
