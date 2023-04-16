@@ -12,7 +12,7 @@
       </head>
       <body>
         <header>
-        <img src="imagens/foto_perfil_150.png" alt="foto_perfil">
+        <img src="portfolio/foto_perfil_150.png" alt="foto_perfil">
           <h1>Gabriel Kostik</h1>
           <nav>
             <ul>
