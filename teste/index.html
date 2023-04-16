@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +31,7 @@
             <h2>Projetos</h2>
             <div class="projeto">
               <h3>Projeto 1</h3>
-              <p>Um site básico de HTML5/CSS3 sobre o sistema operacionla Android e suas curiosidades</p>
+              <p>Um site básico de HTML5/CSS3 sobre o sistema operacional Android e suas curiosidades</p>
               <a href="https://kostikgs.github.io/projeto-android/">Ver projeto</a>
             </div>
             <div class="projeto">
@@ -46,7 +45,8 @@
               <a href="https://kostikgs.github.io/projeto-social/">Ver projeto</a>
             </div>
           </section>
-        <center><img src="imagens/icone-facebook.png" alt="icone-facebook"> <a href="https://www.facebook.com/gabriel.kostik/"target="_blank" rel="external">Facebook</a>
+        <center>
+        <li><img src="imagens/icone-facebook.png" alt="icone-facebook"> <a href="https://www.facebook.com/gabriel.kostik/" target="_blank" rel="external">Facebook</a>
         <img src="imagens/icone-twitter.png" alt="icone-twitter"> <a href="https://twitter.com/GS_Kostik" target="_blank" rel="external">Twitter</a>
         <img src="imagens/icone-linkedin.png" alt="icone-linkedin"> <a href="https://www.linkedin.com/in/gabriel-kostik-3b539b163/" target="_blank" rel="external">Linkedin</a> 
         <img src="imagens/icone-github.png" alt="icone-github"> <a href="https://github.com/KostikGS" target="_blank" rel="external">Github</a></li> </center>
